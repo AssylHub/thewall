@@ -2,17 +2,20 @@
 Wall is a modern social media application built with Flutter, designed to provide a smooth and engaging user experience. It leverages the power of Firebase and Cubit for robust, real-time functionality and efficient state management.
 
 🔧 Technologies Used:
-Flutter for UI & app development
 
-Firebase Firestore for real-time database
+ - Flutter for UI & app development
 
-Firebase Authentication for secure sign-in/sign-up
+ - Firebase Firestore for real-time database
 
-Firebase Storage for image uploads
+ - Firebase Authentication for secure sign-in/sign-up
 
-Cubit (Flutter Bloc) for lightweight and effective state management
+ - Firebase Storage for image uploads
+
+ - Cubit (Flutter Bloc) for lightweight and effective state management
+
 
 ✨ Key Features:
+
 🔒 User Authentication (sign up, log in, log out)
 
 🌓 Light & Dark Mode support
@@ -30,6 +33,7 @@ Cubit (Flutter Bloc) for lightweight and effective state management
 📂 Store and manage user-uploaded media in Firebase Storage
 
 This app reflects a clean UI, structured code, and features typically found in real-world social platforms — ideal for learning and demonstrating full-stack mobile development with Flutter and Firebase.
+
 
 ![Снимок экрана 2025-04-06 133531](https://github.com/user-attachments/assets/986e39ec-0ea2-4969-8b9a-65d864f27534)
 ![Снимок экрана 2025-04-06 133554](https://github.com/user-attachments/assets/aaae6cf8-4188-4d03-aad2-e17a5dff2160)
